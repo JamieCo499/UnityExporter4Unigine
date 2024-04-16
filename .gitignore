@@ -1,0 +1,41 @@
+# Unity
+
+*.pidb
+*.suo
+*.userprefs
+*.vsmdi
+*.testsettings
+*/bin
+*/obj
+*/publish
+$tf
+TestResults
+!*.sln
+!*.csproj
+!*/*.csproj
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# VS
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.vsconfig
+/Packages
+/UserSettings
+/Logs
+
+# Plugin specific assets
+/Assets/*
+!/Assets/UnigineExporter
